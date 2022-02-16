@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristianoooliveira
-- 👀 I’m interested in  Python, machine learning, big data, aprendizado!!
-- 🌱 I’m currently learning  Python e ciencias de dados
-- 💞️ I’m looking  estagios e aprendiado
+- 👀 I’m interested in programação
+- 🌱 I’.m currently learning  programação Front End, Back End.
+- 💞️ I’m looking  estagios e aprendiazado
 - 📫 How to reach me pelo whatsapp 519845788229
 
 <!---
