@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cristianoooliveira
-- 👀 I’m interested in programação
-- 🌱 I’.m currently learning  programação Front End, Back End.
-- 💞️ I’m looking  estagios e aprendiazado
-- 📫 How to reach me pelo whatsapp 519845788229
+- 👋 Oi me chamo @cristianoooliveira
+- 👀 Me interesso por desenvolvimento de sistemas, desktop e mobile.
+- 🌱 No momento estudando programação JavaScript, CSS, HTML, Bootstrap.
+- 💞️ Estou a procura estagios e Projetos!
+- 📫 Meu Whatsapp é (51)9845788229
 
 <!---
 cristianoooliveira/cristianoooliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
