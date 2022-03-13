@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoooliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake animation](https://github.com/rafaballerini/cristianoooliveira/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/cristianoooliveira/cristianoooliveira/blob/output/github-contribution-grid-snake.svg)
