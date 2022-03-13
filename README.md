@@ -1,4 +1,5 @@
-### Olá! eu sou o Cristiano Oliveira, Seja Bem vindo! 👊
+### Olá! eu sou o Cristiano Oliveira
+Seja Bem vindo!  
 
 ![Cristiano GitHub status](https://github-readme-stats.vercel.app/api?username=cristianoooliveira&show_icons=true&theme=tokyonight)
 [![](https://i.picasion.com/pic92/e56ea94ae4d51a1da813833bafcda203.gif)]()
