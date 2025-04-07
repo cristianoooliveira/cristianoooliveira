@@ -7,7 +7,7 @@ Seja Bem vindo!
 
 ### Contatos
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/QLUWSMYSWYQ4N1)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/stories/oocristianodeoliveira/2786839640995531089?utm_medium=share_sheet)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/stories/oocristianodeoliveira/2786839640995531089?utm_medium=share_sheet](https://www.instagram.com/_dev.cris_?igsh=MTBzanEyczIzZnV3YQ==))
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-oliveira-desenvolvedor)
 
 ### Tecnologias em Treinamento 
