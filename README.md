@@ -1,24 +1,50 @@
-### Olá! Me chamo Cristiano Correa.
-Seja Bem vindo!  
+# Hi there! I'm Cristiano Oliveira 👋
 
-![Cristiano GitHub status](https://github-readme-stats.vercel.app/api?username=cristianoooliveira&show_icons=true&theme=tokyonight)
-[![](https://i.picasion.com/pic92/e56ea94ae4d51a1da813833bafcda203.gif)]()
+<p align="left">
+  <a href="https://www.linkedin.com/in/cristiano-oliveira-desenvolvedor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/CristianoDev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
 
+---
 
-### Contatos
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/zhxpak)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dev.cris_?igsh=MTBzanEyczIzZnV3YQ==)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-oliveira-desenvolvedor)
+### 🚀 About Me
+I am a **Full Stack Developer** specializing in **AI-Assisted Development**. At 40, I am leading a successful career transition, combining professional maturity with cutting-edge technology. 
 
-### Tecnologias em Treinamento 
+- 🎓 **Education:** Computer Systems Analysis Student (Full Scholarship via PROUNI ).
+- 💡 **Differentiator:** I use AI tools (ChatGPT, Claude, Copilot, Cursor) to multiply productivity and ensure high-quality code delivery.
+- 🌍 **Goal:** Seeking international remote opportunities to solve real-world problems.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![PHYTON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+---
 
+### 🛠️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoooliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)` `PHP` `Python` `Java` `SQL` |
+| **Front-End** | `React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` |
+| **Back-End** | `Node.js` `MySQL` |
+| **AI & Tools** | `Cursor AI` `GitHub Copilot` `Vercel` `Git/GitHub` |
 
-![snake animation](https://github.com/cristianoooliveira/cristianoooliveira/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianoooliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoooliveira&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📂 Featured Projects
+*Check out my pinned repositories below for real-world applications!*
+
+---
+
+<p align="center">
+  "The best way to predict the future is to code it." 🚀
+</p>
